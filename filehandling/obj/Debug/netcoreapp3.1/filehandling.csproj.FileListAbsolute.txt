@@ -1,0 +1,12 @@
+C:\Users\Prathmesh\OneDrive\Desktop\filehandling\filehandling\bin\Debug\netcoreapp3.1\filehandling.exe
+C:\Users\Prathmesh\OneDrive\Desktop\filehandling\filehandling\bin\Debug\netcoreapp3.1\filehandling.deps.json
+C:\Users\Prathmesh\OneDrive\Desktop\filehandling\filehandling\bin\Debug\netcoreapp3.1\filehandling.runtimeconfig.json
+C:\Users\Prathmesh\OneDrive\Desktop\filehandling\filehandling\bin\Debug\netcoreapp3.1\filehandling.runtimeconfig.dev.json
+C:\Users\Prathmesh\OneDrive\Desktop\filehandling\filehandling\bin\Debug\netcoreapp3.1\filehandling.dll
+C:\Users\Prathmesh\OneDrive\Desktop\filehandling\filehandling\bin\Debug\netcoreapp3.1\filehandling.pdb
+C:\Users\Prathmesh\OneDrive\Desktop\filehandling\filehandling\obj\Debug\netcoreapp3.1\filehandling.AssemblyInfoInputs.cache
+C:\Users\Prathmesh\OneDrive\Desktop\filehandling\filehandling\obj\Debug\netcoreapp3.1\filehandling.AssemblyInfo.cs
+C:\Users\Prathmesh\OneDrive\Desktop\filehandling\filehandling\obj\Debug\netcoreapp3.1\filehandling.csproj.CoreCompileInputs.cache
+C:\Users\Prathmesh\OneDrive\Desktop\filehandling\filehandling\obj\Debug\netcoreapp3.1\filehandling.dll
+C:\Users\Prathmesh\OneDrive\Desktop\filehandling\filehandling\obj\Debug\netcoreapp3.1\filehandling.pdb
+C:\Users\Prathmesh\OneDrive\Desktop\filehandling\filehandling\obj\Debug\netcoreapp3.1\filehandling.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aX7mRXlmTVVWflG0Kbcqngo8T0WyYgdl5v3XPN/UFvxkVWHIZBtI9UQk2MVFeyDRAyVf++/XSzdVCY6Z9aWjXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Prathmesh\\OneDrive\\Desktop\\filehandling\\filehandling\\filehandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prathmesh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
