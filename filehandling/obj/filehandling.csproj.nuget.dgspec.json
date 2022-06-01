@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prathmesh\\OneDrive\\Desktop\\filehandling\\filehandling\\filehandling.csproj": {}
+    "C:\\Users\\Prathmesh\\OneDrive\\Desktop\\C# Practices\\filehandling\\filehandling\\filehandling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prathmesh\\OneDrive\\Desktop\\filehandling\\filehandling\\filehandling.csproj": {
+    "C:\\Users\\Prathmesh\\OneDrive\\Desktop\\C# Practices\\filehandling\\filehandling\\filehandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prathmesh\\OneDrive\\Desktop\\filehandling\\filehandling\\filehandling.csproj",
+        "projectUniqueName": "C:\\Users\\Prathmesh\\OneDrive\\Desktop\\C# Practices\\filehandling\\filehandling\\filehandling.csproj",
         "projectName": "filehandling",
-        "projectPath": "C:\\Users\\Prathmesh\\OneDrive\\Desktop\\filehandling\\filehandling\\filehandling.csproj",
+        "projectPath": "C:\\Users\\Prathmesh\\OneDrive\\Desktop\\C# Practices\\filehandling\\filehandling\\filehandling.csproj",
         "packagesPath": "C:\\Users\\Prathmesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prathmesh\\OneDrive\\Desktop\\filehandling\\filehandling\\obj\\",
+        "outputPath": "C:\\Users\\Prathmesh\\OneDrive\\Desktop\\C# Practices\\filehandling\\filehandling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Prathmesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
